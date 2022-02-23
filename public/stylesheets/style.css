@@ -1,0 +1,37 @@
+body {
+  margin: 0%;
+  font: 14px "Lucida Grande", Helvetica, Arial, sans-serif;
+  background-color: #ebebee;
+}
+
+a {
+  color: #00B7FF;
+}
+header{
+  display: flex;
+}
+ul li{
+  list-style-type: none;
+}
+ul li a{
+  margin-left: 10px;
+}
+form div label{
+  margin: 5px;
+  font-size: 15px;
+}
+form div input{
+  width: 200px;
+  margin: 8px;
+  display: inline-block;
+}
+form button{
+  text-align: center;
+  width: 100px;
+  margin: 10px;
+  border-radius: 5px;
+  border: none;
+  background-color: #0C0BEF;
+  color: #FFFF
+}
+
